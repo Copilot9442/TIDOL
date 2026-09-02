@@ -66,7 +66,7 @@ of it confirming it's in pairing mode<br>
 <h1>when to stop with project</h1><br>
 
 - if Apple sends a cease and desist to me<br>
-- if the project succeeds<br>
+- if the project succeeds and nothing needs to be changed (it's in the best state possible and nearly impossible to break for the rest of (at least) 100 years)<br>
 - heat-death of the universe<br>
 
 <h1>notes for Apple</h1><br>
